@@ -28,15 +28,15 @@ st.write("𝗛𝗢𝗪 𝗙𝗔𝗥𝗠𝗘𝗥𝗦 𝗛𝗘𝗟𝗣 𝗦𝗢�
 im1,im2=st.columns(2)
 with im1:
  st.image("img5.jpg") 
-with im2:
- st.image("img8.jpg") 
+# with im2:
+#  st.image("img8.jpg") 
 st.write("Farmers are fundamental to the survival and progress of society. Through their constant labor, they provide the food that sustains populations and supports economic stability. Their contribution extends beyond agriculture, strengthening communities and ensuring food security for present and future generations.")
 st.write("𝗜𝗡𝗙𝗟𝗔𝗧𝗜𝗢𝗡 𝗢𝗡 𝗖𝗥𝗢𝗣𝗦")
 im4,im3=st.columns(2)
 with im3:
  st.image("img7.jpg") 
-with im4:
- st.image("imgd3.jpg") 
+# with im4:
+#  st.image("imgd3.jpg") 
 st.write(" Inflation has a significant impact on crops by increasing the cost of seeds, fertilizers, fuel, and farm equipment. As production expenses rise, farmers are forced to sell their crops at higher prices to avoid losses. This leads to increased food prices in markets, affecting consumers and reducing affordability. Inflation also makes it difficult for farmers to invest in better technology, which can limit productivity and long-term agricultural growth")
 st.write("𝗖𝗥𝗢𝗣𝗦 𝗚𝗥𝗢𝗪𝗡 𝗜𝗡 𝗠𝗔𝗗𝗛𝗬𝗔 𝗣𝗥𝗔𝗗𝗘𝗦𝗛")
 t1,t2=st.columns(2)
